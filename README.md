@@ -173,16 +173,16 @@ http://localhost:5173
 ## Screenshots
 
 ### Dashboard
-
 ![Dashboard](screenshots/dashboard.png)
 
 ### Questions Page
-
 ![Questions Page](screenshots/questions-page.png)
 
-### Postman API Test
+### Question Update
+![Question Update](screenshots/questions-update.png)
 
-![Postman API Test](screenshots/postman-create-question.png)
+### Dashboard Summary API Test
+![Dashboard Summary API Test](screenshots/postman-dashboard-summary.png)
 
 ## Future Improvements
 
